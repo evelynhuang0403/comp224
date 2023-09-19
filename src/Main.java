@@ -22,6 +22,6 @@ public class Main {
 
         account1.print();
         account2.print();
-        account3.print();
+
     }
     }
